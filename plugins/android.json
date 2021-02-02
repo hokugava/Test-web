@@ -1,0 +1,27 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.myfavtesl.rnbalfa"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "com.myfavtesl.rnbalfa"
+    },
+    "cordova-plugin-enable-multidex": {
+      "PACKAGE_NAME": "com.myfavtesl.rnbalfa"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.myfavtesl.rnbalfa"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.myfavtesl.rnbalfa"
+    }
+  },
+  "dependent_plugins": {}
+}
